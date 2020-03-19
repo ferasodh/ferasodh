@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test markdown
+title: Breast cancer classification with FAST.AI and Deep Learning
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]

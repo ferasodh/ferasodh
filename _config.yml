@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Feras Odeh's Blog
+title: Feras Odeh
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,14 +68,14 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "ferasodh@gmail.com"
+  # facebook: deanattali
+  github: ferasodh
+  twitter: FerasOdh
 #  reddit: yourname
-#  linkedin: daattali
+ linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+ stackoverflow: "364746/feras-odeh"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
